@@ -9,5 +9,6 @@ System.setProperty("webdriver.chrome.driver","C:\\Users\\Hp\\eclipse-workspace\\
 WebDriver driver=new ChromeDriver();
 driver.manage().window().maximize();
 driver.navigate().to("https://www.google.com/");
+  //example
 }
 }
